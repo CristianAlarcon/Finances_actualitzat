@@ -14,3 +14,5 @@ Codi en Python "Tdc-divises-Finanzas".
 csv generat: "TdC-Divises-per-dia"
 
 DOI del dataset: https://doi.org/10.5281/zenodo.3750134
+
+Respostes de les preguntes de la pràctica: "resposta-prac1"
